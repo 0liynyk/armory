@@ -1,4 +1,6 @@
 # Portworx Armory Demo
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0liynyk%2Farmory.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F0liynyk%2Farmory?ref=badge_shield)
+
 
 This repository is designed to be cloned per environment. We are working to automate the setup steps.
 
@@ -30,3 +32,7 @@ Install the Armory Agents
 
 NOTE: in order to avoid modifying config files, it is important that agents are install within tenants. There is a demo1 and demo2 tenant environment in armory. The source (prod) cluster is called cluster01 and the destination (stage) cluster is called cluster02
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0liynyk%2Farmory.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F0liynyk%2Farmory?ref=badge_large)
